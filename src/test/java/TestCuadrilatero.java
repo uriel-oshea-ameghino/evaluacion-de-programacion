@@ -6,7 +6,7 @@ import org.junit.Test;
  */
 public class TestCuadrilatero {
 
-    @Test
+  /*  @Test
     public void crearCuadrilatero() {
         Punto esquinaInferiorIzquierda = new Punto(6, 2);
         Punto esquinaSuperiorDerecha = new Punto(8, 4);
@@ -111,5 +111,5 @@ public class TestCuadrilatero {
 
 
 
-
+*/
 }
